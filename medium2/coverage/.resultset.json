@@ -1,0 +1,24 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/home/ubuntu/environment/LS/RB130/MoreTopics/medium2/text.rb": {
+        "lines": [
+          1,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1581710016
+  }
+}
